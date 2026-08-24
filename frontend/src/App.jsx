@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-
-const API = "http://localhost:5000/api";
-
+const API = "https://last-mile-delivery-jk3x.onrender.com/api";
 function App() {
   const [view, setView] = useState("dashboard");
   const [token, setToken] = useState(localStorage.getItem("token"));
