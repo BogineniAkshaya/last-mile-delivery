@@ -6,6 +6,15 @@ Built this to explore how a real delivery/logistics system might work under the 
 
 ---
 
+## Live Demo
+
+- 🌐 Frontend: [last-mile-delivery-plum.vercel.app](https://last-mile-delivery-plum.vercel.app/)
+- ⚙️ Backend: [last-mile-delivery-jk3x.onrender.com](https://last-mile-delivery-jk3x.onrender.com)
+
+> Note: The backend is hosted on Render's free tier, so it may take a few seconds to spin up on the first request.
+
+---
+
 ## Features
 
 - User registration & login with role-based access (Customer / Delivery Agent / Admin)
@@ -168,4 +177,5 @@ PICKED_UP → IN_TRANSIT → OUT_FOR_DELIVERY → FAILED → RESCHEDULED
 ---
 
 ## Author
+
 **Akshaya Bogineni**
